@@ -1,0 +1,9 @@
+
+2023-02-24 17:23:16,323 game.coin_toss:12 game_start [DEBUG]: game start
+2023-02-24 17:23:19,294 game.coin_toss:25 game_start [DEBUG]: toss='裏
+2023-02-24 17:23:19,294 game.coin_toss:26 game_start [DEBUG]: guess='裏'
+2023-02-24 17:23:19,294 game.coin_toss:42 game_start [DEBUG]: game end
+2023-02-24 17:23:24,075 game.coin_toss:12 game_start [DEBUG]: game start
+2023-02-24 17:23:26,063 game.coin_toss:25 game_start [DEBUG]: toss='表
+2023-02-24 17:23:26,063 game.coin_toss:26 game_start [DEBUG]: guess='裏'
+2023-02-24 17:23:28,131 game.coin_toss:33 game_start [ERROR]: 2回目のguessで無効な値が入力された!guess=あ
